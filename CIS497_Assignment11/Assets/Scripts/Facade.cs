@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * Facade
+ * Assignment 11
+ * A class definining a Facade pattern with methods to control fridge, stove, and sink.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

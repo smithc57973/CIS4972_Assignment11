@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * Singleton
+ * Assignment 11
+ * A class definining a singleton based on the pattern.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

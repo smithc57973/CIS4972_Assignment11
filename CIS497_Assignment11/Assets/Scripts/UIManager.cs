@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * UIManager
+ * Assignment 11
+ * A singleton approach to managing UI elements.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

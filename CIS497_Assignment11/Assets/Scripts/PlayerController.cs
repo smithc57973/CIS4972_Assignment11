@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * PlayerController
+ * Assignment 11
+ * A script for managing player input.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

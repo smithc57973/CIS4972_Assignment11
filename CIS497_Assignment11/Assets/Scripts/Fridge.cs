@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * Fridge
+ * Assignment 11
+ * A class definining a fridge and its methods.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * Stove
+ * Assignment 11
+ * A class definining a stove and its methods.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
